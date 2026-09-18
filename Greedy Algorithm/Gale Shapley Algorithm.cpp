@@ -1,4 +1,5 @@
-
+//This code implements the Gale-Shapley Algorithm (also known as the Deferred Acceptance Algorithm) which is used 
+// to solve the Stable Marriage Problem.
 
 #include <bits/stdc++.h>
 using namespace std;
